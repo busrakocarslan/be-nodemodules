@@ -1,10 +1,9 @@
 {
-  "name": "be-nodemodules",
+  "name": "express_routing",
   "version": "1.0.0",
-  "main": "module.js",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "HOST=localhost PORT=1234 node index"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
